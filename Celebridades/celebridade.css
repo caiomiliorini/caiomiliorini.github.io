@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Grandstander:wght@200&display=swap');
+
+body{
+    background-color: rgb(69, 88, 92);
+}
+
+h1{
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    font-size: 400%;
+    text-align: center;
+}
+
+h3{
+    color: rgb(189, 230, 230);
+    font-family: 'Grandstander', cursive;
+    font-size: 125%;
+}
+
+img#imgUm{
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    height: auto;
+}
+
+img#imgDois{
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    height: 50%;
+}
+
+img#imgTres{
+    display: block;
+    margin: 0 auto;
+    width: 35%;
+    height: 35%;
+}
